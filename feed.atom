@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <id>https://github.com/wowthemesnet/vuepress-theme-mediumish/</id>
+    <title>Axat</title>
+    <updated>2021-05-04T18:34:32.556Z</updated>
+    <generator>https://github.com/webmasterish/vuepress-plugin-feed</generator>
+    <link rel="alternate" href="https://github.com/wowthemesnet/vuepress-theme-mediumish/"/>
+    <link rel="self" href="https://github.com/wowthemesnet/vuepress-theme-mediumish/feed.atom"/>
+    <subtitle>Axat - Learn JS &amp; Build Mobile Apps with Web Tech</subtitle>
+    <entry>
+        <title type="html"><![CDATA[Magical nature, God is perfect]]></title>
+        <id>https://github.com/wowthemesnet/vuepress-theme-mediumish/2018/11/07/frontmatter-in-vuepress/</id>
+        <link href="https://github.com/wowthemesnet/vuepress-theme-mediumish/2018/11/07/frontmatter-in-vuepress/">
+        </link>
+        <updated>2018-11-06T18:30:00.000Z</updated>
+        <summary type="html"><![CDATA[I have travelled for so long that I can't even remember my own city.]]></summary>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Writing a vuepress theme 1]]></title>
+        <id>https://github.com/wowthemesnet/vuepress-theme-mediumish/2019/05/06/writing-a-vuepress-theme/</id>
+        <link href="https://github.com/wowthemesnet/vuepress-theme-mediumish/2019/05/06/writing-a-vuepress-theme/">
+        </link>
+        <updated>2019-05-05T18:30:00.000Z</updated>
+        <summary type="html"><![CDATA[Mediumish is the best VuePress theme Medium styled.]]></summary>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[What's the most beautiful website in the world]]></title>
+        <id>https://github.com/wowthemesnet/vuepress-theme-mediumish/2020/01/28/whats-the-most-beautiful-website-world/</id>
+        <link href="https://github.com/wowthemesnet/vuepress-theme-mediumish/2020/01/28/whats-the-most-beautiful-website-world/">
+        </link>
+        <updated>2020-01-27T18:30:00.000Z</updated>
+        <summary type="html"><![CDATA[Any website that uses a static generator.]]></summary>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Why do I need Markdown Slot]]></title>
+        <id>https://github.com/wowthemesnet/vuepress-theme-mediumish/2019/02/26/markdown-slot/</id>
+        <link href="https://github.com/wowthemesnet/vuepress-theme-mediumish/2019/02/26/markdown-slot/">
+        </link>
+        <updated>2019-02-25T18:30:00.000Z</updated>
+        <summary type="html"><![CDATA[VuePress implements a content distribution API for Markdown.]]></summary>
+    </entry>
+</feed>
