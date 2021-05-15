@@ -1,0 +1,30 @@
+{
+    "version": "https://jsonfeed.org/version/1",
+    "title": "Axat",
+    "home_page_url": "https://github.com/wowthemesnet/vuepress-theme-mediumish/",
+    "feed_url": "https://github.com/wowthemesnet/vuepress-theme-mediumish/feed.json",
+    "description": "Axat - Learn JS & Build Mobile Apps with Web Tech",
+    "items": [
+        {
+            "id": "https://github.com/wowthemesnet/vuepress-theme-mediumish/2021/07/15/usecontext-hook-react/",
+            "url": "https://github.com/wowthemesnet/vuepress-theme-mediumish/2021/07/15/usecontext-hook-react/",
+            "title": "UseContext - Maintain States through the Components Tree",
+            "summary": "How to use useContext to share specific data from all levels of application in React.",
+            "date_modified": "2021-07-14T18:30:00.000Z"
+        },
+        {
+            "id": "https://github.com/wowthemesnet/vuepress-theme-mediumish/2021/05/07/use-state-react/",
+            "url": "https://github.com/wowthemesnet/vuepress-theme-mediumish/2021/05/07/use-state-react/",
+            "title": "UseState - Maintain States in Functional Component",
+            "summary": "How to use states inside a functional component in React?.",
+            "date_modified": "2021-05-06T18:30:00.000Z"
+        },
+        {
+            "id": "https://github.com/wowthemesnet/vuepress-theme-mediumish/2021/05/08/usereducer-hook-react/",
+            "url": "https://github.com/wowthemesnet/vuepress-theme-mediumish/2021/05/08/usereducer-hook-react/",
+            "title": "UseReducer - Maintain Complex States in Functional Component",
+            "summary": "UseReducer is used to maintain states similar to \"useState\", but when we have a complex state logic.",
+            "date_modified": "2021-05-07T18:30:00.000Z"
+        }
+    ]
+}
